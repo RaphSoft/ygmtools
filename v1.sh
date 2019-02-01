@@ -9,6 +9,7 @@ then
   
 else
    echo "Sorry your password incorrect"
+fi
    
 
 
