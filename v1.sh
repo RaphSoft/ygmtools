@@ -5,7 +5,7 @@ read -p "Enter your password:" gans;
 if [ $gans = gol ] || [ $gans = gol ]
 then
      git clone https://github.com/RaphSoft/toolsv1.git
-     cd 
+     cd toolsv1
      sh select.sh
   
 else
